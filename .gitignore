@@ -1,0 +1,11 @@
+# Go caches / entorno local
+.gocache/
+.gomodcache/
+.gopath/
+
+# binarios
+*.exe
+*.out
+
+# DB local (si no querés versionarla)
+*.db
